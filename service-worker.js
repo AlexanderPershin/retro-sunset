@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/retro-sunset/precache-manifest.f5e05004bc1a338e818029f1d5c6c608.js"
+  "/retro-sunset/precache-manifest.1bee0f63a3b0f62326ed5003424ad82e.js"
 );
 
 self.addEventListener('message', (event) => {

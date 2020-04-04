@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "928345f04e6776fa74308eaf5e30d236",
+    "revision": "0355b856207925a90edd5c08eaa0c5f4",
     "url": "/retro-sunset/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/retro-sunset/static/js/2.7a560f60.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "38fae077d0cbecbd33d0",
-    "url": "/retro-sunset/static/js/main.67b4265b.chunk.js"
+    "revision": "3e0a08a262c88b003101",
+    "url": "/retro-sunset/static/js/main.afd99146.chunk.js"
   },
   {
     "revision": "769e30dc019c7806813e",
